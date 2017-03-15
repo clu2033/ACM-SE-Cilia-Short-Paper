@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  15 MAR 2017 17:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  15 MAR 2017 18:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -934,11 +934,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1.1{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
-<patient_label.png, id=56, 404.51125pt x 360.34625pt>
+<patient_label.png, id=58, 404.51125pt x 360.34625pt>
 File: patient_label.png Graphic file (type png)
  <use patient_label.png>
 Package pdftex.def Info: patient_label.png used on input line 22.
-(pdftex.def)             Requested size: 72.26572pt x 72.26591pt.
+(pdftex.def)             Requested size: 202.25513pt x 180.17268pt.
 LaTeX Font Info:    Try loading font information for T1+zi4 on input line 24.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/inconsolata/t1zi4.fd
@@ -956,34 +956,36 @@ Package microtype Info: Character `textendash ' is missing
 Package microtype Info: Character `textemdash ' is missing
 (microtype)             in font `T1/zi4/b/n/9'.
 (microtype)             Ignoring protrusion settings for this character.
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 9.0pt on input line 31.
 
-<arch.png, id=59, 355.42622pt x 156.38754pt>
+<arch.png, id=61, 355.42622pt x 156.38754pt>
 File: arch.png Graphic file (type png)
  <use arch.png>
-Package pdftex.def Info: arch.png used on input line 35.
-(pdftex.def)             Requested size: 289.09221pt x 144.55121pt.
+Package pdftex.def Info: arch.png used on input line 34.
+(pdftex.def)             Requested size: 426.50931pt x 187.66411pt.
 
-Overfull \hbox (47.94472pt too wide) in paragraph at lines 35--37
+<CNN_graph.png, id=67, 542.025pt x 361.35pt>
+File: CNN_graph.png Graphic file (type png)
+ <use CNN_graph.png>
+Package pdftex.def Info: CNN_graph.png used on input line 46.
+(pdftex.def)             Requested size: 271.01183pt x 180.67456pt.
+
+Overfull \hbox (29.86433pt too wide) in paragraph at lines 46--47
  [][] 
  []
 
-<CNN_graph.png, id=64, 542.025pt x 361.35pt>
-File: CNN_graph.png Graphic file (type png)
- <use CNN_graph.png>
-Package pdftex.def Info: CNN_graph.png used on input line 48.
-(pdftex.def)             Requested size: 144.53743pt x 144.53743pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 53.
- [2.2 <./patient_label.png> <./arch.png>]) (./sigconf.bbl
+(Font)              scaled to size 9.0pt on input line 51.
+ [2.2 <./patient_label.png>] [3.3 <./arch.png> <./CNN_graph.png>]) (./sigconf.b
+bl
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
 (Font)              scaled to size 7.0pt on input line 50.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [3.3 <./CNN_graph.png>]) [4.4
+)
+[4.4
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 76.
@@ -996,30 +998,34 @@ Package rerunfilecheck Info: File `sigconf.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 76.
  ) 
 Here is how much of TeX's memory you used:
- 16839 strings out of 493117
- 255146 string characters out of 6135433
- 361260 words of memory out of 5000000
- 19641 multiletter control sequences out of 15000+600000
- 130389 words of font info for 228 fonts, out of 8000000 for 9000
+ 16912 strings out of 493117
+ 256508 string characters out of 6135433
+ 359260 words of memory out of 5000000
+ 19668 multiletter control sequences out of 15000+600000
+ 144034 words of font info for 273 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 60i,12n,94p,1230b,583s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-4.enc}{
-/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{/
-usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{/u
-sr/local/texlive/2014/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}{/us
-r/local/texlive/2014/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{/usr
-/local/texlive/2014/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}</usr/
-local/texlive/2014/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4b.p
-fb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/libertine/LinBiolinum
-T.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/libertine/LinBioli
-numTB.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/libertine/LinL
-ibertineT.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/libertine/
-LinLibertineTB.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/liber
-tine/LinLibertineTI.pfb>
-Output written on sigconf.pdf (4 pages, 503802 bytes).
+ 60i,11n,94p,1230b,447s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/libertine/lbtn_c7kyj5.enc
+}{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-4.enc}{/
+usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{/u
+sr/local/texlive/2014/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{/us
+r/local/texlive/2014/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}{/usr
+/local/texlive/2014/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{/usr/
+local/texlive/2014/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}</usr/l
+ocal/texlive/2014/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4b.pf
+b></usr/local/texlive/2014/texmf-dist/fonts/type1/public/libertine/LinBiolinumT
+.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/libertine/LinBiolin
+umTB.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/libertine/LinLi
+bertineT.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/libertine/L
+inLibertineTB.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/libert
+ine/LinLibertineTI.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/t
+xfonts/rtxmi.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/txfonts
+/rtxr.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/txfonts/txsy.p
+fb>
+Output written on sigconf.pdf (4 pages, 509076 bytes).
 PDF statistics:
- 135 PDF objects out of 1000 (max. 8388607)
- 116 compressed objects within 2 object streams
+ 152 PDF objects out of 1000 (max. 8388607)
+ 130 compressed objects within 2 object streams
  31 named destinations out of 1000 (max. 500000)
- 39496 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 44104 words of extra memory for PDF output out of 51595 (max. 10000000)
 
